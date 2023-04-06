@@ -1,4 +1,4 @@
-#Annikken Support Page
+## Click on the picture of the product you require help with
 
 ### Andee U
 ![Go to Andee U Support Page](assets/gb-andee-u.png)
@@ -10,7 +10,7 @@
 ![Go to Andee iOS Support Page](assets/gb-andee-ios.png)
 
 ### Andee API Reference
-[Andee API Reference]()
+[Andee API Reference](annikken.github.io/api)
 
 ### AndeeBot
 []
