@@ -1,5 +1,5 @@
-title: Annikken Support
-description: This is the webpage for support documentation for Annikken products
+title: Annikken Support Page
+description: This is the webpage for support documentation of Annikken products
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
