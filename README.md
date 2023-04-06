@@ -10,7 +10,6 @@
 ![Go to Andee iOS Support Page](assets/gb-andee-ios.png)
 
 ### Andee API Reference
-[Andee API Reference](annikken.github.io/api)
 
 ### AndeeBot
 []
