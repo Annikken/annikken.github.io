@@ -6,6 +6,8 @@
 
 ![Go to Andee U Support Page](assets/gb-andee-u.png)
 
+* [Download the latest Andee firmware](https://github.com/Annikken/annikken.github.io/raw/main/AndeeU%26iOS3.1.0.zip)
+
 * [Installing the Arduino IDE](https://annikken.github.io/andeedocs/AndeeSetup/#installing-arduino-ide)
 
 * [Installing the Andee Library on the Arduino IDE](https://annikken.github.io/andeedocs/AndeeSetup/#installing-andee-library)
@@ -16,6 +18,8 @@
 
 ![Go to Andee Android Support Page](assets/gb-andee-android.png)
 
+* [Download the latest Andee firmware](https://github.com/Annikken/annikken.github.io/raw/main/Android3.1.0.zip)
+
 * [Installing the Arduino IDE](https://annikken.github.io/andeedocs/AndeeSetup/#installing-arduino-ide)
 
 * [Installing the Andee Library on the Arduino IDE](https://annikken.github.io/andeedocs/AndeeSetup/#installing-andee-library)
@@ -25,6 +29,8 @@
 ### Andee iOS
 
 ![Go to Andee iOS Support Page](assets/gb-andee-ios.png)
+
+* [Download the latest Andee firmware](https://github.com/Annikken/annikken.github.io/raw/main/AndeeU%26iOS3.1.0.zip)
 
 * [Installing the Arduino IDE](https://annikken.github.io/andeedocs/AndeeSetup/#installing-arduino-ide)
 
